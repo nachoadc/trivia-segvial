@@ -12,11 +12,7 @@ export const Question = sequelize.define('Question', {
         unique: true,
         allowNull: false
     },
-    correct_answer: {
-        type: DataTypes.ARRAY(DataTypes.JSON),
-        allowNull: false,
-    },
-    incorrect_answers: {
+    options: {
         type: DataTypes.ARRAY(DataTypes.JSON),
         allowNull: false,
     }

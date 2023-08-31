@@ -1,11 +1,10 @@
 import { Question } from "../models/Question.js";
 
-export const create = async (question, correct_answer, incorrect_answers) => {
+export const create = async (question, options) => {
     
     const newQuestion = await Question.create({
         question,
-        correct_answer,
-        incorrect_answers
+        options
     });
 
     return newQuestion;

@@ -1,0 +1,88 @@
+[
+    {
+      "id": 1,
+      "question": [
+        {
+          "ask": "¿Cuántos metros se necesitan para reaccionar y frenar un vehículo que circula a 90 km/h sobre pavimento seco, y en óptimas condiciones climáticas, del camino, y del móvil?"
+        }
+      ],
+      "options": [
+        {
+          "correct_answer": "36 metros",
+          "incorrect_answer": {
+            "option_1": "65 metros",
+            "option_2": "19 metros"
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": [
+        {
+          "ask": "¿Qué tipo de señal es la siguiente?",
+          "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Spain_traffic_signal_r2_1992.svg"
+        }
+      ],
+      "options": [
+        {
+          "correct_answer": "Señal reglamentaria",
+          "incorrect_answer": {
+            "option_1": "Señal de prohibición",
+            "option_2": "Señal de precausión"
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": [
+        {
+          "ask": "Cuando se es encandilado por otro vehículo que viene en sentido contrario, ¿qué es conveniente para su seguridad?"
+        }
+      ],
+      "options": [
+        {
+          "correct_answer": "Disminuir la velocidad y mantener la dirección, guiándose por las líneas laterales de la ruta, de su mano, acercándose a ellas",
+          "incorrect_answer": {
+            "option_1": "Encender las luces altas para indicarle al otro vehículo que baje sus luces",
+            "option_2": "Cerrar y abrir varias veces los ojos para neutralizar el efecto mientras se colocan las luces altas para advertir al que encandila de su acto"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": [
+        {
+          "ask": "El tipo de choque más peligroso en ruta, por su terrible efecto destructivo, es el"
+        }
+      ],
+      "options": [
+        {
+          "correct_answer": "Frontal",
+          "incorrect_answer": {
+            "option_1": "Trasero",
+            "option_2": "Lateral"
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": [
+        {
+          "ask": "La mayoría de los siniestros de tránsito, ¿por qué tipo de fallas se producen?"
+        }
+      ],
+      "options": [
+        {
+          "correct_answer": "Humanas",
+          "incorrect_answer": {
+            "option_1": "Del vehículo",
+            "option_2": "Delc amino"
+          }
+        }
+      ]
+    }
+]

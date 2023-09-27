@@ -8,8 +8,7 @@ export const Question = sequelize.define('Question', {
         primaryKey: true
     },
     question: {
-        type: DataTypes.STRING,
-        unique: true,
+        type: DataTypes.ARRAY(DataTypes.JSON),
         allowNull: false
     },
     options: {
